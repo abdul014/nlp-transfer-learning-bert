@@ -63,7 +63,7 @@ model = BertForSequenceClassification.from_pretrained(
     "cahya/bert-base-indonesian-522M",
     num_labels=3
 )
-
+---
 ---
 
 ## 🚀 Eksperimen Langsung di Google Colab
