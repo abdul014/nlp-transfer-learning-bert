@@ -84,5 +84,6 @@ Untuk melihat cara kerja model BERT dalam analisis teks dan implementasi lainnya
 **Abd Rahman**  
 _From Komunitas EraNusaData_  
 Magister Statistika dan Sains Data, IPB University  
-📧 [LinkedIn](linkedin.com/in/abd-rahman-ysf)
+📧 [LinkedIn](https://linkedin.com/in/abd-rahman-ysf)
+
 
