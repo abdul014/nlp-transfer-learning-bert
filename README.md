@@ -10,7 +10,7 @@ Eksperimen ini membahas konsep **Transfer Learning** dalam konteks *Natural Lang
 Dalam konteks NLP, hal ini memungkinkan model seperti **BERT**, yang telah dilatih pada korpus teks besar, untuk digunakan kembali dan di-*fine-tune* pada dataset baru yang lebih kecil dan spesifik.
 
 <p align="center">
-  <img src="[images/transfer-learning-vs-traditional.png](https://miro.medium.com/max/1400/1*b4GiiiIgxhfd3pUd86ZUuw.png)" width="600"/>
+  <img src="https://miro.medium.com/max/1400/1*b4GiiiIgxhfd3pUd86ZUuw.png" width="600"/>
 </p>
 
 ### ⚙️ Inti dari Transfer Learning:
