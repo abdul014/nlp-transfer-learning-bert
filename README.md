@@ -63,3 +63,26 @@ model = BertForSequenceClassification.from_pretrained(
     "cahya/bert-base-indonesian-522M",
     num_labels=3
 )
+
+---
+
+## 🚀 Eksperimen Langsung di Google Colab
+
+Untuk melihat cara kerja model BERT dalam analisis teks dan implementasi lainnya, silakan kunjungi tautan berikut:
+
+🔗 [Jalankan di Google Colab](https://colab.research.google.com/github/abdul014/nlp-transfer-learning-bert/blob/main/Aplikasi%20BERT%20untuk%20NLP.ipynb)
+
+<p align="center">
+  <img src="images/bert-demo.gif" width="600" alt="Demo BERT in Colab"/>
+</p>
+
+> 📊 Gambar di atas memperlihatkan hasil implementasi model BERT untuk tugas analisis sentimen dan klasifikasi teks.
+
+---
+
+## ✍️ Disusun Oleh
+**Abd Rahman**  
+_From Komunitas EraNusaData_  
+Magister Statistika dan Sains Data, IPB University  
+📧 [GitHub](https://github.com/abdul014) | [LinkedIn](https://linkedin.com/in/)
+
