@@ -76,7 +76,7 @@ Untuk melihat cara kerja model BERT dalam analisis teks dan implementasi lainnya
   <img src="https://github.com/abdul014/nlp-transfer-learning-bert/blob/main/show%20code%201.gif?raw=true" width="600" alt="Demo BERT in Colab"/>
 </p>
 
-> 📊 Gambar di atas memperlihatkan hasil implementasi model BERT untuk tugas analisis sentimen dan klasifikasi teks.
+> 📊 Gambar gif di atas memperlihatkan code implementasi model BERT.
 
 ---
 
